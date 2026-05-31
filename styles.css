@@ -2,7 +2,7 @@ table {
   width: 100%;
   border-collapse: collapse;
   border-style: solid;
-  border-color: rgb(255, 165, 0);
+  border-color: orange;
   border-width: 0px 0px 1px 1px;
 }
 
@@ -10,7 +10,7 @@ th,
 td {
   text-align: center;
   border-style: solid;
-  border-color: rgb(255, 165, 0);
+  border-color: orange;
   border-width: 1px 1px 0px 0px;
   padding: 3px 5px;
 }
