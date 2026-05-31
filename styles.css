@@ -1,13 +1,17 @@
 table {
   width: 100%;
   border-collapse: collapse;
-  border: 1px solid orange;
+  border-style: solid;
+  border-color: rgb(255, 165, 0);
+  border-width: 0px 0px 1px 1px;
 }
 
 th,
 td {
-  border: 1px solid orange;
   text-align: center;
+  border-style: solid;
+  border-color: rgb(255, 165, 0);
+  border-width: 1px 1px 0px 0px;
   padding: 3px 5px;
 }
 
